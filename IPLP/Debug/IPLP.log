@@ -1,0 +1,6 @@
+﻿  IPLP.cpp
+C:\Users\Owner\source\repos\IPLP\IPLP.cpp(50,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\source\repos\IPLP\IPLP.cpp(60,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\source\repos\IPLP\IPLP.cpp(123,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\source\repos\IPLP\IPLP.cpp(134,21): warning C4018: '<': signed/unsigned mismatch
+  IPLP.vcxproj -> C:\Users\Owner\source\repos\IPLP\Debug\IPLP.exe
