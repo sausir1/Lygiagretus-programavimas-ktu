@@ -1,0 +1,26 @@
+==============INPUT================ 
+Apple		1000			2504.75
+RedBull		254			1320.95
+Activision		1256			2988.34
+Rockstar Games		4551			8454.36
+SuckerPunch		269			5001.49
+GameStop		98			1339.24
+Hooters		315			314.64
+Atari		101			2804.95
+7 Dragons		189			1001.95
+12 brothers		1874			1335.95
+DPD		1236			704.95
+Omniva		864			904.95
+Packard		11002			3662.57
+Hawlett		12145			3025.42
+Zion		1584			677.12
+Maxima		17457			1453.47
+Pear		1055			1104.95
+Mapple		1057			2504.95
+Microsoft		1548			2756.95
+Dodgee		1034			1804.95
+Xiaomi		655			1904.95
+Samsung		987			4984.95
+Google		10000			3704.95
+Ryterna		115			859.95
+Hegelmann		270			1625.95

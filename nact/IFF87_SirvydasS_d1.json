@@ -1,0 +1,133 @@
+{"Companies":[
+    {
+      "name": "Apple",
+      "employees": 1000,
+      "avgSalary": 2504.75
+    },
+    {
+      "name": "RedBull",
+      "employees": 254,
+      "avgSalary": 1320.95
+    },
+    {
+      "name": "Activision",
+      "employees": 1256,
+      "avgSalary": 2988.34
+    },
+    {
+      "name": "Rockstar Games",
+      "employees": 4551,
+      "avgSalary": 8454.36
+    },
+    {
+      "name": "SuckerPunch",
+      "employees": 269,
+      "avgSalary": 5001.49
+    },
+    {
+      "name": "GameStop",
+      "employees": 98,
+      "avgSalary": 1339.24
+    },
+    {
+      "name": "Atari",
+      "employees": 101,
+      "avgSalary": 2804.95
+    },
+    {
+      "name": "Hooters",
+      "employees": 315,
+      "avgSalary": 314.64
+    },
+    {
+      "name": "7 Dragons",
+      "employees": 189,
+      "avgSalary": 1001.95
+    },
+    {
+      "name": "12 brothers",
+      "employees": 1874,
+      "avgSalary": 1335.95
+    },
+    {
+      "name": "DPD",
+      "employees": 1236,
+      "avgSalary": 704.95
+    },
+    {
+      "name": "Omniva",
+      "employees": 864,
+      "avgSalary": 904.95
+    },
+    {
+      "name": "Packard",
+      "employees": 11002,
+      "avgSalary": 3662.57
+    },
+    {
+      "name": "Hawlett",
+      "employees": 12145,
+      "avgSalary": 3025.42
+    },
+    {
+      "name": "Zion",
+      "employees": 1584,
+      "avgSalary": 677.12
+    },
+    {
+      "name": "Maxima",
+      "employees": 17457,
+      "avgSalary": 1453.47
+    },
+    {
+      "name": "Pear",
+      "employees": 1055,
+      "avgSalary": 1104.95
+    },
+    {
+      "name": "Mapple",
+      "employees": 1057,
+      "avgSalary": 2504.95
+    },
+    {
+      "name": "Microsoft",
+      "employees": 1548,
+      "avgSalary": 2756.95
+    },
+    {
+      "name": "Dodgee",
+      "employees": 1034,
+      "avgSalary": 1804.95
+    },
+    {
+      "name": "Xiaomi",
+      "employees": 655,
+      "avgSalary": 1904.95
+    },
+    {
+      "name": "Samsung",
+      "employees": 987,
+      "avgSalary": 4984.95
+    },
+    {
+      "name": "Google",
+      "employees": 10000,
+      "avgSalary": 3704.95
+    },
+    {
+      "name": "Ryterna",
+      "employees": 115,
+      "avgSalary": 859.95
+    },
+    {
+      "name": "Hegelmann",
+      "employees": 270,
+      "avgSalary": 1625.95
+    },
+    {
+      "name": "Facebook",
+      "employees": 1250,
+      "avgSalary": 4044.95
+    }
+  ]
+  }
